@@ -1,0 +1,24 @@
+{
+  "skills": [
+    "Python", "Java", "JavaScript", "TypeScript", "C", "C++", "C#", "Go", "Rust", "Swift", "Kotlin",
+    "PHP", "Ruby", "Scala", "R", "MATLAB", "Dart", "Perl", "Shell", "Bash",
+    "React", "Angular", "Vue", "Next.js", "Nuxt.js", "Svelte", "Redux", "jQuery", "Bootstrap", "Tailwind",
+    "Node.js", "Express", "FastAPI", "Django", "Flask", "Spring Boot", "Laravel", "Rails", "ASP.NET",
+    "MySQL", "PostgreSQL", "MongoDB", "SQLite", "Redis", "Cassandra", "DynamoDB", "Firebase", "Oracle", "SQL",
+    "Machine Learning", "Deep Learning", "NLP", "Computer Vision", "TensorFlow", "PyTorch", "Keras", "Scikit-learn",
+    "Pandas", "NumPy", "Matplotlib", "Seaborn", "OpenCV", "Hugging Face", "BERT", "GPT",
+    "Docker", "Kubernetes", "AWS", "Azure", "GCP", "Terraform", "Ansible", "Jenkins", "CI/CD",
+    "Git", "GitHub", "GitLab", "Bitbucket", "Linux", "Unix",
+    "REST API", "GraphQL", "gRPC", "Microservices", "Kafka", "RabbitMQ", "WebSocket",
+    "Spark", "Hadoop", "Hive", "Airflow", "ETL", "Data Pipeline",
+    "HTML", "CSS", "SASS", "LESS", "Webpack", "Vite",
+    "Flutter", "React Native", "Android", "iOS", "Xcode",
+    "Agile", "Scrum", "Jira", "Confluence",
+    "Elasticsearch", "Kibana", "Grafana", "Prometheus",
+    "Power BI", "Tableau", "Data Visualization",
+    "Blockchain", "Solidity", "Web3",
+    "Selenium", "Jest", "Pytest", "JUnit", "Cypress", "Postman",
+    "OpenAI", "LangChain", "Vector Database", "Pinecone", "ChromaDB",
+    "Data Structures", "Algorithms", "System Design", "OOP", "Design Patterns"
+  ]
+}
